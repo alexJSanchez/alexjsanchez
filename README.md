@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **alexjsanchez1020@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19mDl794lwSQAyL2m4U4in95LQ4Cl1DWTsvjQhlV8PL0/edit?usp=sharing](https://docs.google.com/document/d/19mDl794lwSQAyL2m4U4in95LQ4Cl1DWTsvjQhlV8PL0/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -25,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjsanchez&show_icons=true&locale=en&layout=compact" alt="alexjsanchez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexjsanchez&show_icons=true&locale=en" alt="alexjsanchez" /></p>
- 
